@@ -1,0 +1,7 @@
+{
+  "name": "◆말씀쉼터-성경 드라마◆최종",
+  "description": "성경 개역개정 4판 기반 AI 호스트 형제님과 자매님의 생동감 넘치는 성경 대본 생성 및 이미지/오디오 서비스입니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
